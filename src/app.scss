@@ -1,0 +1,16 @@
+$colorFont1: red;
+$colorFont: blue;
+$fontSize: 20px;
+$fontFamily: 'Odibee Sans', cursive;
+$fontFamilyStand: Helvetica, san-serif;
+
+body {
+  color: $colorFont;
+  font-size: $fontSize;
+  font-family: $fontFamily;
+}
+
+h1 {
+  color: $colorFont1;
+  font-family: $fontFamilyStand;
+}
